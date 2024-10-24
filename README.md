@@ -243,6 +243,6 @@
 <!-- BLOG-POST-LIST:END -->
 
 <!---
-Individual-CS-KevinVanLearningChannel/Individual-CS-KevinVanLearningChannel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+HCMUS-CS-KevinVanLearningChannel/HCMUS-CS-KevinVanLearningChannel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
